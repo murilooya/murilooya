@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there 👋
+
+I'm Murilo Oyafuso and I'm from Brazil. I'm a technology excited. Love to learn new thing and enjoys new challanges.
+Bachalor of Engeneering (Electrical Engineer ⚡) in Federal University of Paraná (UFPR).
+
+## Would you like to know more about me?
+Check out my Linkedin
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-oyafuso-247753179/)
+
 
 <!--
 **murilooya/murilooya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
